@@ -132,7 +132,7 @@ A node-based visual editor for composing LLM pipelines. Drag-and-drop DAG constr
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=lokeshdeep42&hide_border=true&ring=4F46E5&fire=0891B2&currStreakLabel=4F46E5" alt="Streak stats" />
+<img height="164" src="https://streak-stats.demolab.com?user=lokeshdeep42&hide_border=true&ring=4F46E5&fire=0891B2&currStreakLabel=4F46E5" alt="Streak stats" />
 
 </div>
 
