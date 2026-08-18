@@ -132,12 +132,7 @@ A node-based visual editor for composing LLM pipelines. Drag-and-drop DAG constr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lokeshdeep42&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=9CA3AF&icon_color=0891B2&rank_icon=percentile&cache_seconds=86400" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshdeep42&layout=compact&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=9CA3AF&langs_count=8&cache_seconds=86400" alt="Top languages" />
-
-<br/><br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=lokeshdeep42&hide_border=true&background=00000000&border=00000000&stroke=30363D&ring=4F46E5&fire=0891B2&currStreakLabel=4F46E5&sideLabels=9CA3AF&dates=6B7280&sideNums=E5E7EB&currStreakNum=E5E7EB&currStreakDates=9CA3AF" alt="Streak stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=lokeshdeep42&hide_border=true&ring=4F46E5&fire=0891B2&currStreakLabel=4F46E5" alt="Streak stats" />
 
 </div>
 
