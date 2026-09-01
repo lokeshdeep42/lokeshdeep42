@@ -101,7 +101,7 @@ Day to day I work in .NET and Python at CGS India, and take on full-stack AI bui
 
 ## 🚀 Featured Projects
 
-### Winaperk *(private · in development)*
+### [Winaperk](https://www.winaperk.com) *(private, in development)*
 
 QR-to-game customer-retention SaaS for cafés and bars. Customers scan a table QR, play a short game, and win a perk that brings them back — turning a one-time visit into a return trip without an app install.
 
